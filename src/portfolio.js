@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Bryle Tan',
-  role: 'Software Engineer',
+  role: 'Computer Scientist',
   description:
     'Fourth-year computer science student at Rutgers University with a passion for problem-solving and technology. Throughout my studies, I have gained a strong foundation in computer science concepts and technologies, including data structures, algorithms, programming languages, and software engineering.',
   resume: 'https://example.com',
@@ -30,7 +30,7 @@ const projects = [
   {
     name: 'TrueFort API Repository Website',
     description:
-      'a website that serves as a repository for the internal REST APIs of TrueFort Inc.',
+      'A website that serves as a repository for the internal REST APIs of TrueFort Inc.',
     stack: ['HTML', 'CSS', 'JavaScript', 'Postman'],
   },
   {
