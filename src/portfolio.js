@@ -1,15 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://bryletan.github.io/',
-  title: 'BT.',
+  title: '',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Bryle Tan',
-  role: 'Computer Scientist',
+  role: 'computer scientist',
   description:
-    'Fourth-year computer science student at Rutgers University with a passion for problem-solving and technology. Throughout my studies, I have gained a strong foundation in computer science concepts and technologies, including data structures, algorithms, programming languages, and software engineering.',
+    'I am a recent graduate of Rutgers University, where I earned a Bachelor\'s Degree in Computer Science. During my academic journey, I have gained and developed a strong foundation in key computer science principles and technologies. My coursework has provided me with a deep understanding of data analysis, algorithms, and software development, and allowed me to apply these concepts through hands-on projects and collaborative work.',
   resume: 'https://drive.google.com/file/d/1M4ux4mHL6xWj1r9g3giI8MfGFMSXPgFk/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/bryle-tan-095b861b7/',
@@ -54,8 +54,9 @@ const skills = [
   'TypeScript',
   'Git',
   'MySQL',
-  'JDBC',
   'Tomcat',
+  'Vim',
+  'Access',
 ]
 
 const contact = {
