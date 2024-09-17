@@ -10,7 +10,7 @@ const about = {
   role: 'Computer Scientist',
   description:
     'Fourth-year computer science student at Rutgers University with a passion for problem-solving and technology. Throughout my studies, I have gained a strong foundation in computer science concepts and technologies, including data structures, algorithms, programming languages, and software engineering.',
-  resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/1M4ux4mHL6xWj1r9g3giI8MfGFMSXPgFk/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/bryle-tan-095b861b7/',
     github: 'https://github.com/bryletan',
