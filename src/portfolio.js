@@ -17,6 +17,30 @@ const about = {
   },
 }
 
+const experiences = [
+  {
+    title: 'IT Specialist',
+    company:'Kobo Products Inc.',
+    duration:'September 2024 - Present',
+    responsibilities: [
+      'Maintaining and developing new features on internal Microsoft Access database',
+      'Transitioning data from Access to Microsoft Dynamics 365 Business Central'
+    ],
+    link: 'https://www.koboproductsinc.com/'
+  },
+  {
+    title: 'Software QA Intern',
+    company:'TrueFort Inc.',
+    duration:'May 2023 - Aug 2023',
+    responsibilities: [
+      'Developed automated test scripts to analyze and compile a comprehensive list of deprecated APIs non-compliant with REST standards',
+      'Built an accessible framework for REST API documentation, allowing for enhanced client accessibility and reducing API testing time',
+      'Collaborated on a cross team presentation, addressing REST API challenges and offering actionable insights that informed strategic decisions'
+    ],
+    link: 'https://truefort.com/'
+  },
+]
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
@@ -25,7 +49,7 @@ const projects = [
     description:
       'A full stack web application that operates as an online auction system, similar to eBay.',
     stack: ['Java', 'JavaScript', 'HTML', 'MySQL', 'CSS', 'Git'],
-    sourceCode: 'https://github.com/jamescodestuff/ebayClone',
+    sourceCode: 'https://github.com/bryletan/BuyMe',
   },
   {
     name: 'TrueFort API Repository Website',
@@ -64,4 +88,4 @@ const contact = {
   email: 'bryletan.cs@gmail.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, experiences, projects, skills, contact }
