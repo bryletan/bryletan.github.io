@@ -24,7 +24,8 @@ const experiences = [
     duration:'September 2024 - Present',
     responsibilities: [
       'Maintaining and developing new features on internal Microsoft Access database',
-      'Transitioning data from Access to Microsoft Dynamics 365 Business Central'
+      'Transitioning data from Access to Microsoft Dynamics 365 Business Central',
+      'Providing general IT support for internal organization'
     ],
     link: 'https://www.koboproductsinc.com/'
   },
@@ -81,6 +82,7 @@ const skills = [
   'Tomcat',
   'Vim',
   'Access',
+  'VBA',
 ]
 
 const contact = {
